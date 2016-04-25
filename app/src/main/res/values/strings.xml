@@ -7,4 +7,12 @@
     <string name="no_location_detected">
         No location detected. Make sure location is enabled on the device.
     </string>
+    <string name="invalid_lat_long_used">Invalid latitude/longitude</string>
+    <string name="service_not_available">Service is not available</string>
+    <string name="no_address_found">No addresses found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_geocoder">No geocoder available</string>
+    <string name="add_place">Add place</string>
+    <string name="find_place">Find place</string>
+
 </resources>
